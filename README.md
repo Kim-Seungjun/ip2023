@@ -10,4 +10,4 @@ Homework2
 <img src="./Homework2.gif" width="100%" height="100%" title="Homework2" alt="Homework2"></img>
 
 Homework3
-<img src="./HomeWork3.png" width="100%" height="100%" title="Homework3" alt="Homework3"></img>
+<img src="./HomeWork 3.png" width="100%" height="100%"></img>

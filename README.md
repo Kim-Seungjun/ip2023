@@ -1,8 +1,7 @@
 # OpenCV-Python Tutorials
 OpenCV-Python Tutorials
 
-Open code
-Click Image
+
 
 Homework1 
 <a href="./HomeWork 1.ipynb">
